@@ -1,5 +1,8 @@
-# JavaScript Testing
+# Code for Udacity's JavaScript Testing course
 
-Practice testing your javascript applications using Jasmine!
+This repository contains the code for
+[JavaScript testing course](https://classroom.udacity.com/courses/ud549)
+a couple of additional test cases were added.
 
-`git clone https://github.com/udacity/ud549` and open the files in your editor to follow along with [Udacity's JavaScript Testing course](https://www.udacity.com/course/javascript-testing--ud549).
+The original repository can be found at
+https://github.com/udacity/ud549
